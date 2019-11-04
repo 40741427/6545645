@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget id="tw.edu.nfu.eZTravel" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<!-- versionCode is optional and Android only -->
+  <name>我的資料夾</name>
+  <description>
+      Koobee
+  </description>
+  <author href="https://www.nfu.edu.tw/zh/" email="40741427@nfu.edu.tw">
+      石家宇
+  </author>
+  <content src="index.html" />
+  <platform name="android">
+    <icon src="res/map.png" />
+
+  </platform>
+</widget>
